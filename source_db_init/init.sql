@@ -34,7 +34,7 @@ CREATE TABLE films (
 INSERT INTO films (title, release_date, price, rating, user_rating) VALUES
 ('The dark night rises', '2010-07-16', 12.99, 'PG-13', 4.8),
 ('The Shawshank Redemption', '1994-09-23', 9.99, 'R', 4.9),
-('The Godfather', '1972-03-24', 14.99, 'R', 4.7),
+('The GodMother', '1972-03-24', 14.99, 'R', 4.7),
 ('The Dark Knight', '2008-07-18', 11.99, 'PG-13', 4.8),
 ('Pulp Fiction', '1994-10-14', 10.99, 'R', 4.6),
 ('The Matrix', '1999-03-31', 9.99, 'R', 4.7),
